@@ -1,0 +1,19 @@
+img {
+
+	width:400px;
+	border-radius: 50px;
+	border: 5px solid brown;
+	allign-content:center;
+	justify-content: center;
+
+}
+
+body {
+	text-align: center; 
+	background-image: url(https://www.shutterstock.com/image-photo/banig-philippines-native-handmade-mat-600nw-1667349346.jpg);
+}
+
+h1 {
+		text-align: center;
+		color:solid golid
+	}
